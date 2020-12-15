@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "853CA299A59DCC89217ECD56FFF49EB7E762087F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "853CA299A59DCC89217ECD56FFF49EB7E762087F" : 9223372036854775807,
+    "646F69DF0C4CE0F00FE970004D4AB14F76F39D0A" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "7D285383-C60A-4AAD-A016-EC9655AEC92A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "853CA299A59DCC89217ECD56FFF49EB7E762087F" : "comp_arch\/",
+    "646F69DF0C4CE0F00FE970004D4AB14F76F39D0A" : "comp_arch\/lab3\/lab3\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "lab3",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "lab3\/lab3.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Zaydax\/MultiCycleMicroArchitecture",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "646F69DF0C4CE0F00FE970004D4AB14F76F39D0A"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ndc466\/lc3b-simulator",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "853CA299A59DCC89217ECD56FFF49EB7E762087F"
+    }
+  ]
+}

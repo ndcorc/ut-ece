@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "eval_bus_drivers:lc3bsim3.c">
+         <PersistentStrings>
+            <PersistentString
+               value = "bits8_6(CURRENT_LATCHES.IR) &gt;&gt; 6">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

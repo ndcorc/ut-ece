@@ -1,0 +1,365 @@
+,GameCount,LscoreAvg,WscoreAvg,Team_Name
+1101,0,0.0,0.0,Abilene Chr
+1102,0,0.0,0.0,Air Force
+1103,1,42.0,0.0,Akron
+1104,0,0.0,0.0,Alabama
+1105,0,0.0,0.0,Alabama A&M
+1106,0,0.0,0.0,Alabama St
+1107,1,61.0,0.0,Albany NY
+1108,0,0.0,0.0,Alcorn St
+1109,0,0.0,0.0,Alliant Intl
+1110,0,0.0,0.0,American Univ
+1111,0,0.0,0.0,Appalachian St
+1112,3,23.333333333333332,51.666666666666664,Arizona
+1113,0,0.0,0.0,Arizona St
+1114,0,0.0,0.0,Ark Little Rock
+1115,0,0.0,0.0,Ark Pine Bluff
+1116,0,0.0,0.0,Arkansas
+1117,0,0.0,0.0,Arkansas St
+1118,0,0.0,0.0,Armstrong St
+1119,0,0.0,0.0,Army
+1120,0,0.0,0.0,Auburn
+1121,0,0.0,0.0,Augusta
+1122,0,0.0,0.0,Austin Peay
+1123,0,0.0,0.0,Ball St
+1124,0,0.0,0.0,Baylor
+1125,1,64.0,0.0,Belmont
+1126,0,0.0,0.0,Bethune-Cookman
+1127,0,0.0,0.0,Binghamton
+1128,0,0.0,0.0,Birmingham So
+1129,1,71.0,0.0,Boise St
+1130,0,0.0,0.0,Boston College
+1131,0,0.0,0.0,Boston Univ
+1132,0,0.0,0.0,Bowling Green
+1133,0,0.0,0.0,Bradley
+1134,0,0.0,0.0,Brooklyn
+1135,0,0.0,0.0,Brown
+1136,0,0.0,0.0,Bryant
+1137,1,56.0,0.0,Bucknell
+1138,0,0.0,0.0,Buffalo
+1139,2,36.0,34.0,Butler
+1140,0,0.0,0.0,BYU
+1141,0,0.0,0.0,C Michigan
+1142,0,0.0,0.0,Cal Poly SLO
+1143,2,30.0,32.0,California
+1144,0,0.0,0.0,Campbell
+1145,0,0.0,0.0,Canisius
+1146,0,0.0,0.0,Cent Arkansas
+1147,0,0.0,0.0,Centenary
+1148,0,0.0,0.0,Central Conn
+1149,0,0.0,0.0,Charleston So
+1150,0,0.0,0.0,Charlotte
+1151,0,0.0,0.0,Chattanooga
+1152,0,0.0,0.0,Chicago St
+1153,1,63.0,0.0,Cincinnati
+1154,0,0.0,0.0,Citadel
+1155,0,0.0,0.0,Clemson
+1156,0,0.0,0.0,Cleveland St
+1157,0,0.0,0.0,Coastal Car
+1158,0,0.0,0.0,Col Charleston
+1159,0,0.0,0.0,Colgate
+1160,1,49.0,0.0,Colorado
+1161,2,28.0,42.0,Colorado St
+1162,0,0.0,0.0,Columbia
+1163,0,0.0,0.0,Connecticut
+1164,0,0.0,0.0,Coppin St
+1165,0,0.0,0.0,Cornell
+1166,2,25.0,33.5,Creighton
+1167,0,0.0,0.0,CS Bakersfield
+1168,0,0.0,0.0,CS Fullerton
+1169,0,0.0,0.0,CS Northridge
+1170,0,0.0,0.0,CS Sacramento
+1171,0,0.0,0.0,Dartmouth
+1172,1,58.0,0.0,Davidson
+1173,0,0.0,0.0,Dayton
+1174,0,0.0,0.0,Delaware
+1175,0,0.0,0.0,Delaware St
+1176,0,0.0,0.0,Denver
+1177,0,0.0,0.0,DePaul
+1178,0,0.0,0.0,Detroit
+1179,0,0.0,0.0,Drake
+1180,0,0.0,0.0,Drexel
+1181,4,15.75,52.5,Duke
+1182,0,0.0,0.0,Duquesne
+1183,0,0.0,0.0,E Illinois
+1184,0,0.0,0.0,E Kentucky
+1185,0,0.0,0.0,E Michigan
+1186,0,0.0,0.0,E Washington
+1187,0,0.0,0.0,East Carolina
+1188,0,0.0,0.0,Edwardsville
+1189,0,0.0,0.0,Elon
+1190,0,0.0,0.0,ETSU
+1191,0,0.0,0.0,Evansville
+1192,0,0.0,0.0,F Dickinson
+1193,0,0.0,0.0,Fairfield
+1194,0,0.0,0.0,FL Atlantic
+1195,3,16.666666666666668,53.0,FL Gulf Coast
+1196,4,14.75,54.75,Florida
+1197,0,0.0,0.0,Florida A&M
+1198,0,0.0,0.0,Florida Intl
+1199,0,0.0,0.0,Florida St
+1200,0,0.0,0.0,Fordham
+1201,0,0.0,0.0,Fresno St
+1202,0,0.0,0.0,Furman
+1203,0,0.0,0.0,G Washington
+1204,0,0.0,0.0,Ga Southern
+1205,0,0.0,0.0,Gardner Webb
+1206,0,0.0,0.0,George Mason
+1207,1,68.0,0.0,Georgetown
+1208,0,0.0,0.0,Georgia
+1209,0,0.0,0.0,Georgia St
+1210,0,0.0,0.0,Georgia Tech
+1211,2,35.0,32.0,Gonzaga
+1212,0,0.0,0.0,Grambling
+1213,0,0.0,0.0,Grand Canyon
+1214,0,0.0,0.0,Hampton
+1215,0,0.0,0.0,Hardin-Simmons
+1216,0,0.0,0.0,Hartford
+1217,2,25.5,34.0,Harvard
+1218,0,0.0,0.0,Hawaii
+1219,0,0.0,0.0,High Point
+1220,0,0.0,0.0,Hofstra
+1221,0,0.0,0.0,Holy Cross
+1222,0,0.0,0.0,Houston
+1223,0,0.0,0.0,Houston Bap
+1224,0,0.0,0.0,Howard
+1225,0,0.0,0.0,Idaho
+1226,0,0.0,0.0,Idaho St
+1227,0,0.0,0.0,IL Chicago
+1228,2,29.5,28.5,Illinois
+1229,0,0.0,0.0,Illinois St
+1230,0,0.0,0.0,Incarnate Word
+1231,3,16.666666666666668,47.0,Indiana
+1232,0,0.0,0.0,Indiana St
+1233,1,70.0,0.0,Iona
+1234,0,0.0,0.0,Iowa
+1235,2,37.5,38.0,Iowa St
+1236,0,0.0,0.0,IPFW
+1237,0,0.0,0.0,IUPUI
+1238,0,0.0,0.0,Jackson St
+1239,0,0.0,0.0,Jacksonville
+1240,0,0.0,0.0,Jacksonville St
+1241,2,31.0,34.0,James Madison
+1242,3,28.333333333333332,44.666666666666664,Kansas
+1243,1,61.0,0.0,Kansas St
+1244,0,0.0,0.0,Kennesaw
+1245,0,0.0,0.0,Kent
+1246,0,0.0,0.0,Kentucky
+1247,4,14.5,54.75,La Salle
+1248,0,0.0,0.0,Lafayette
+1249,0,0.0,0.0,Lamar
+1250,0,0.0,0.0,Lehigh
+1251,1,72.0,0.0,Liberty
+1252,0,0.0,0.0,Lipscomb
+1253,0,0.0,0.0,Long Beach St
+1254,1,55.0,0.0,Long Island
+1255,0,0.0,0.0,Longwood
+1256,0,0.0,0.0,Louisiana Tech
+1257,6,0.0,79.5,Louisville
+1258,0,0.0,0.0,Loy Marymount
+1259,0,0.0,0.0,Loyola MD
+1260,0,0.0,0.0,Loyola-Chicago
+1261,0,0.0,0.0,LSU
+1262,0,0.0,0.0,MA Lowell
+1263,0,0.0,0.0,Maine
+1264,0,0.0,0.0,Manhattan
+1265,0,0.0,0.0,Marist
+1266,4,9.75,51.0,Marquette
+1267,0,0.0,0.0,Marshall
+1268,0,0.0,0.0,Maryland
+1269,0,0.0,0.0,Massachusetts
+1270,0,0.0,0.0,McNeese St
+1271,0,0.0,0.0,MD E Shore
+1272,2,24.0,27.0,Memphis
+1273,0,0.0,0.0,Mercer
+1274,3,20.333333333333332,47.0,Miami FL
+1275,0,0.0,0.0,Miami OH
+1276,6,12.666666666666666,62.666666666666664,Michigan
+1277,3,20.333333333333332,45.0,Michigan St
+1278,2,32.0,41.5,Minnesota
+1279,2,37.0,28.5,Mississippi
+1280,0,0.0,0.0,Mississippi St
+1281,1,72.0,0.0,Missouri
+1282,0,0.0,0.0,Missouri KC
+1283,0,0.0,0.0,Missouri St
+1284,0,0.0,0.0,Monmouth NJ
+1285,1,34.0,0.0,Montana
+1286,0,0.0,0.0,Montana St
+1287,0,0.0,0.0,Morehead St
+1288,0,0.0,0.0,Morgan St
+1289,0,0.0,0.0,Morris Brown
+1290,0,0.0,0.0,MS Valley St
+1291,0,0.0,0.0,Mt St Mary's
+1292,1,54.0,0.0,MTSU
+1293,0,0.0,0.0,Murray St
+1294,0,0.0,0.0,N Colorado
+1295,0,0.0,0.0,N Dakota St
+1296,0,0.0,0.0,N Illinois
+1297,0,0.0,0.0,N Kentucky
+1298,0,0.0,0.0,Navy
+1299,2,24.0,36.5,NC A&T
+1300,0,0.0,0.0,NC Central
+1301,1,72.0,0.0,NC State
+1302,0,0.0,0.0,NE Illinois
+1303,0,0.0,0.0,NE Omaha
+1304,0,0.0,0.0,Nebraska
+1305,0,0.0,0.0,Nevada
+1306,0,0.0,0.0,New Hampshire
+1307,1,62.0,0.0,New Mexico
+1308,1,44.0,0.0,New Mexico St
+1309,0,0.0,0.0,New Orleans
+1310,0,0.0,0.0,Niagara
+1311,0,0.0,0.0,Nicholls St
+1312,0,0.0,0.0,NJIT
+1313,0,0.0,0.0,Norfolk St
+1314,2,29.0,39.0,North Carolina
+1315,0,0.0,0.0,North Dakota
+1316,0,0.0,0.0,North Florida
+1317,0,0.0,0.0,North Texas
+1318,0,0.0,0.0,Northeastern
+1319,0,0.0,0.0,Northern Arizona
+1320,0,0.0,0.0,Northern Iowa
+1321,0,0.0,0.0,Northwestern
+1322,1,47.0,0.0,Northwestern LA
+1323,1,58.0,0.0,Notre Dame
+1324,0,0.0,0.0,Oakland
+1325,0,0.0,0.0,Ohio
+1326,4,16.5,61.5,Ohio St
+1327,0,0.0,0.0,Okla City
+1328,1,55.0,0.0,Oklahoma
+1329,1,55.0,0.0,Oklahoma St
+1330,0,0.0,0.0,Old Dominion
+1331,0,0.0,0.0,Oral Roberts
+1332,3,23.0,47.333333333333336,Oregon
+1333,0,0.0,0.0,Oregon St
+1334,1,49.0,0.0,Pacific
+1335,0,0.0,0.0,Penn
+1336,0,0.0,0.0,Penn St
+1337,0,0.0,0.0,Pepperdine
+1338,1,55.0,0.0,Pittsburgh
+1339,0,0.0,0.0,Portland
+1340,0,0.0,0.0,Portland St
+1341,0,0.0,0.0,Prairie View
+1342,0,0.0,0.0,Presbyterian
+1343,0,0.0,0.0,Princeton
+1344,0,0.0,0.0,Providence
+1345,0,0.0,0.0,Purdue
+1346,0,0.0,0.0,Quinnipiac
+1347,0,0.0,0.0,Radford
+1348,0,0.0,0.0,Rhode Island
+1349,0,0.0,0.0,Rice
+1350,0,0.0,0.0,Richmond
+1351,0,0.0,0.0,Rider
+1352,0,0.0,0.0,Robert Morris
+1353,0,0.0,0.0,Rutgers
+1354,0,0.0,0.0,S Carolina St
+1355,1,56.0,0.0,S Dakota St
+1356,0,0.0,0.0,S Illinois
+1357,0,0.0,0.0,Sacred Heart
+1358,0,0.0,0.0,Sam Houston St
+1359,0,0.0,0.0,Samford
+1360,0,0.0,0.0,San Diego
+1361,2,35.5,35.0,San Diego St
+1362,0,0.0,0.0,San Francisco
+1363,0,0.0,0.0,San Jose St
+1364,0,0.0,0.0,Santa Barbara
+1365,0,0.0,0.0,Santa Clara
+1366,0,0.0,0.0,Savannah St
+1367,0,0.0,0.0,SC Upstate
+1368,0,0.0,0.0,SE Louisiana
+1369,0,0.0,0.0,SE Missouri St
+1370,0,0.0,0.0,Seattle
+1371,0,0.0,0.0,Seton Hall
+1372,0,0.0,0.0,SF Austin
+1373,0,0.0,0.0,Siena
+1374,0,0.0,0.0,SMU
+1375,0,0.0,0.0,South Alabama
+1376,0,0.0,0.0,South Carolina
+1377,0,0.0,0.0,South Dakota
+1378,0,0.0,0.0,South Florida
+1379,0,0.0,0.0,Southern Miss
+1380,1,58.0,0.0,Southern Univ
+1381,0,0.0,0.0,Southern Utah
+1382,0,0.0,0.0,St Bonaventure
+1383,0,0.0,0.0,St Francis NY
+1384,0,0.0,0.0,St Francis PA
+1385,0,0.0,0.0,St John's
+1386,0,0.0,0.0,St Joseph's PA
+1387,2,28.5,32.0,St Louis
+1388,2,26.0,33.5,St Mary's CA
+1389,0,0.0,0.0,St Peter's
+1390,0,0.0,0.0,Stanford
+1391,0,0.0,0.0,Stetson
+1392,0,0.0,0.0,Stony Brook
+1393,5,11.2,52.6,Syracuse
+1394,0,0.0,0.0,TAM C. Christi
+1395,0,0.0,0.0,TCU
+1396,2,26.0,38.0,Temple
+1397,0,0.0,0.0,Tennessee
+1398,0,0.0,0.0,Tennessee St
+1399,0,0.0,0.0,Tennessee Tech
+1400,0,0.0,0.0,Texas
+1401,0,0.0,0.0,Texas A&M
+1402,0,0.0,0.0,Texas St
+1403,0,0.0,0.0,Texas Tech
+1404,0,0.0,0.0,TN Martin
+1405,0,0.0,0.0,Toledo
+1406,0,0.0,0.0,Towson
+1407,0,0.0,0.0,Troy
+1408,0,0.0,0.0,Tulane
+1409,0,0.0,0.0,Tulsa
+1410,0,0.0,0.0,UTRGV
+1411,0,0.0,0.0,TX Southern
+1412,0,0.0,0.0,UAB
+1413,0,0.0,0.0,UC Davis
+1414,0,0.0,0.0,UC Irvine
+1415,0,0.0,0.0,UC Riverside
+1416,0,0.0,0.0,UCF
+1417,1,63.0,0.0,UCLA
+1418,0,0.0,0.0,ULL
+1419,0,0.0,0.0,ULM
+1420,0,0.0,0.0,UMBC
+1421,0,0.0,0.0,UNC Asheville
+1422,0,0.0,0.0,UNC Greensboro
+1423,0,0.0,0.0,UNC Wilmington
+1424,1,61.0,0.0,UNLV
+1425,0,0.0,0.0,USC
+1426,0,0.0,0.0,UT Arlington
+1427,0,0.0,0.0,UT San Antonio
+1428,0,0.0,0.0,Utah
+1429,0,0.0,0.0,Utah St
+1430,0,0.0,0.0,Utah Valley
+1431,0,0.0,0.0,UTEP
+1432,0,0.0,0.0,Utica
+1433,2,26.5,44.0,VA Commonwealth
+1434,1,54.0,0.0,Valparaiso
+1435,0,0.0,0.0,Vanderbilt
+1436,0,0.0,0.0,Vermont
+1437,1,71.0,0.0,Villanova
+1438,0,0.0,0.0,Virginia
+1439,0,0.0,0.0,Virginia Tech
+1440,0,0.0,0.0,VMI
+1441,0,0.0,0.0,W Carolina
+1442,0,0.0,0.0,W Illinois
+1443,1,57.0,0.0,WKU
+1444,0,0.0,0.0,W Michigan
+1445,0,0.0,0.0,W Salem St
+1446,0,0.0,0.0,W Texas A&M
+1447,0,0.0,0.0,Wagner
+1448,0,0.0,0.0,Wake Forest
+1449,0,0.0,0.0,Washington
+1450,0,0.0,0.0,Washington St
+1451,0,0.0,0.0,Weber St
+1452,0,0.0,0.0,West Virginia
+1453,0,0.0,0.0,WI Green Bay
+1454,0,0.0,0.0,WI Milwaukee
+1455,5,13.6,58.2,Wichita St
+1456,0,0.0,0.0,William & Mary
+1457,0,0.0,0.0,Winthrop
+1458,1,46.0,0.0,Wisconsin
+1459,0,0.0,0.0,Wofford
+1460,0,0.0,0.0,Wright St
+1461,0,0.0,0.0,Wyoming
+1462,0,0.0,0.0,Xavier
+1463,0,0.0,0.0,Yale
+1464,0,0.0,0.0,Youngstown St

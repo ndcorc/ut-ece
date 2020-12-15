@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "eval_micro_sequencer:lc3bsim4.c">
+      </ContextState>
+      <ContextState
+         contextName = "cycle_memory:lc3bsim4.c">
+         <PersistentStrings>
+            <PersistentString
+               value = "GetDATA_SIZE()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

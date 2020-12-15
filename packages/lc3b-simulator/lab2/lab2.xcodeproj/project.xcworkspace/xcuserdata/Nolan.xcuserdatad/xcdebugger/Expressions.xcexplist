@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "process_instruction:lc3bsim2.c">
+         <PersistentStrings>
+            <PersistentString
+               value = "(baseAddress + offset) &amp; 0x0001">
+            </PersistentString>
+            <PersistentString
+               value = "MEMORY[6156]">
+            </PersistentString>
+            <PersistentString
+               value = "MEMORY[(baseAddress + offset) &gt;&gt; 1]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

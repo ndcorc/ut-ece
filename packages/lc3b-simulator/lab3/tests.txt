@@ -1,0 +1,52 @@
+------------------------
+Grading for ncorcoran
+------------------------
+An "x" in the "Incorrect" column indicates a test has failed
+
+=========================================================================
+Part A: Tests for individual states (1.25 points each)
+Each of these compares the result of rdump & mdump after run <n>
+where n is the value in column 3 below
+=========================================================================
+Name of     Instruction      Number of   Number of   Incorrect   Points
+Test Case                    Cycles      Differences
+=========================================================================
+initial                      0           0                 (Not a test case)
+8ccp        NOT R7, R7       9           2              x        0.25
+13          STW R7, R6, #0   10          1              x        0.75
+14          STW R7, R6, #0   15          2              x        0.25
+17          STB R7, R6, #0   15          1              x        0.75
+20          STB R7, R6, #1   15          1              x        0.75
+40          RSHFL R2, R6, #4 9           2              x        0.25
+41          RSHFA R2, R6, #4 9           2              x        0.25
+=========================================================================
+Part B: Tests for correct functionality of instructions(2.5 points each)
+=========================================================================
+Instruction     Number of       Incorrect       Points
+                Differences
+=========================================================================
+add             1                  x            2
+and             1                  x            2
+br              2                  x            1.5
+jsrr            x                  x            0
+lshf            4                  x            0.5
+rshfa           4                  x            0.5
+rshfl           4                  x            0.5
+stb             1                  x            2
+xor             1                  x            2
+=========================================================================
+Parts A and B - absolute points: 83 / 100
+Parts A and B - adjusted points: 66 / 80
+=========================================================================
+=========================================================================
+Part C: Microcode (-1 point per error)
+=========================================================================
+Error			Control Signal	Your Value	Correct Value
+=========================================================================
+
+=========================================================================
+Part C - points: 20 / 20
+=========================================================================
+=========================================================================
+Assignment 3: Total points 86 / 100
+=========================================================================

@@ -1,0 +1,1 @@
+This is a dummy file. You may delete this if you wish (though it's not required). Put your final results in this folder.

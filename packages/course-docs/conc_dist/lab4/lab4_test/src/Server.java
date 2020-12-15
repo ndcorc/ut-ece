@@ -1,0 +1,38 @@
+import java.net.*;
+import java.io.*;
+import java.util.*;
+
+public class Server {
+
+    public static final Boolean DEBUG = true;
+    public static ServerSocket listener;
+    public static Store store;
+    public static Lamport lamport;
+
+    public static void main (String[] args) {
+
+        Settings settings = new Settings(args);
+
+        if (DEBUG) settings.initServerFiles();
+        else settings.initServer();
+
+        store = new Store(settings.getInventory());
+        try {
+            listener = new ServerSocket(settings.getMyServer().getPort());
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+               
+        Linker linker = new Linker(settings);
+        lamport = new Lamport(linker);
+        linker.init();
+        try {
+            Socket socket;
+            while ((socket = listener.accept()) != null) {
+                new Thread(new ClientHandler(socket, lamport)).start();
+            }
+        } catch (IOException e) {
+            System.out.println("Server crashed ...");
+        }
+    }
+}

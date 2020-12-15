@@ -1,0 +1,27 @@
+
+Memory content [0x3814..0x3815] :
+-------------------------------------
+ 0x3814 (14356) : 0x0052
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 28476
+PC           : 0x0000
+IR           : 0xf025
+STATE_NUMBER : 0x0012
+
+BUS          : 0x0000
+MDR          : 0x0000
+MAR          : 0x004a
+CCs: N = 1  Z = 0  P = 0
+Registers:
+0: 0x0000
+1: 0x0052
+2: 0xc014
+3: 0x0007
+4: 0x0000
+5: 0x0000
+6: 0x2ffc
+7: 0x1602
+
